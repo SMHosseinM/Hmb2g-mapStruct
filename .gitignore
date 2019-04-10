@@ -1,0 +1,6 @@
+# IntelliJ files
+.idea/*
+Hmb2g-mapStruct.iml
+
+# mvn build package
+target/*
